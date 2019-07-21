@@ -1,0 +1,44 @@
+.App {
+    text-align: left;
+  }
+  
+    .Quiz {
+    
+    align-content: left;
+    background-color: #d4d4e4;
+    width:250px;
+    border: 1px solid #ddd;
+    
+  }  
+  /* .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  } */
+  
+  .Quiz-header {
+    margin-top: -1px;
+    margin-left: -16px;
+    background-color: #ffbb70;
+    height: 35px;
+    width:250px;
+    color: white;
+    text-align: center;
+    align-content: left;
+    
+  }
+
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size:xx-small;
+    
+  }
+  
+  /* @keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  } */
+  
